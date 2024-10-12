@@ -8,7 +8,7 @@ Il progetto **Privacy Shield** nasce come risposta alle crescenti minacce alla l
 
 Privacy Shield si propone di contrastare queste tendenze sviluppando e implementando protocolli che permettano agli utenti di comunicare in modo sicuro e anonimo, proteggendo la propria privacy e libertà online.
 
-**TSNL: Un nuovo livello di rete per la privacy**
+### **TSNL: Un nuovo livello di rete per la privacy**
 
 Il cuore di Privacy Shield è TSNL (Time-based Spatial Network Layer), un protocollo che crea un "sub-layer" di rete dove l'identità degli utenti è protetta e al contempo è possibile scambiare dati con un'ampia banda.  Immaginate un labirinto dove i vostri dati vengono inviati attraverso percorsi multipli e complessi, rendendo difficile il tracciamento della loro origine e destinazione. TSNL offre diversi vantaggi rispetto a protocolli come Tor e Freenet, tra cui una maggiore velocità di connessione e una migliore accessibilità per l'utente comune.
 
@@ -16,17 +16,17 @@ Le specifiche del protocollo verranno pubblicate nell'omonima repository in ques
 
 Si intende sviluppare la sua implementazione in NodeJS e Go.
 
-**P2V: Streaming libero e decentralizzato**
+### **P2V: Streaming libero e decentralizzato**
 
 Privacy Shield include anche P2V, un protocollo innovativo che unisce le caratteristiche del P2P e dello streaming TV, consentendo la diffusione di contenuti live in tempo reale in modo decentralizzato e resistente alla censura.  P2V può essere utilizzato per creare canali di streaming legali a basso costo per eventi live come conferenze, trasmissioni educative e molto altro. La sua natura decentralizzata e ridondanza rende difficile bloccare lo streaming anche se alcuni utenti vengono bloccati, garantendo la libertà di accesso all'informazione.
 
 Il suo sviluppo è secondario rispetto al protocollo TSNL e agirebbe anche da deterrente al tracciamento di live pirata sui protocolli classici da parte delle autorità, e al contempo potrebbe anche agire da deterrente alle live pirata a pagamento a fronte di alternative gratuite più facilmente accessibili. Quindi l'implementazione del protocollo P2V verrebbe fatta solo se strettamente necessario, volta a distaccare il traffico di live pirata dai classici protocolli Web in soccorso della sua neutralità.
 
-**Obiettivo: Difendere la neutralità del web e i diritti digitali**
+### **Obiettivo: Difendere la neutralità del web e i diritti digitali**
 
 L'obiettivo di Privacy Shield non è quello di promuovere la pirateria, ma di proteggere la neutralità del web e i diritti fondamentali dei cittadini, come la libertà di espressione e il diritto alla privacy.  Privacy Shield mira a rendere inefficaci le misure di controllo e sorveglianza online, spingendo i governi a rispettare la libertà e la privacy dei cittadini.
 
-**Unisciti alla lotta per la libertà online**
+### **Unisciti alla lotta per la libertà online**
 
 Privacy Shield è un progetto no-profit che si impegna a sviluppare strumenti per proteggere la libertà online.  Contribuisci al progetto, diffondi informazioni sulla sorveglianza online e sostieni le organizzazioni che difendono i diritti digitali.  Insieme possiamo costruire un futuro digitale più libero e aperto.
 
