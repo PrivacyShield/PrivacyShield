@@ -1,6 +1,6 @@
 # Privacy Shield
 
-[(English version)](https://github.com/PrivacyShield/PrivacyShield/blob/main/README.md)
+[(English version)](https://github.com/PrivacyShield/PrivacyShield/blob/main/presentation.english.md)
 
 ## Privacy Shield: Proteggi la tua libertà online
 
