@@ -16,6 +16,8 @@ Le specifiche del protocollo verranno pubblicate nell'omonima repository in ques
 
 Si intende sviluppare la sua implementazione in NodeJS e Go.
 
+La bozza in anteprima delle presifications è già trovabile [nella sua repotisitory](https://github.com/PrivacyShield/tsnl-specification/blob/main/drafts/italian.md)
+
 ### **P2V: Streaming libero e decentralizzato**
 
 Privacy Shield include anche P2V, un protocollo innovativo che unisce le caratteristiche del P2P e dello streaming TV, consentendo la diffusione di contenuti live in tempo reale in modo decentralizzato e resistente alla censura.  P2V può essere utilizzato per creare canali di streaming legali a basso costo per eventi live come conferenze, trasmissioni educative e molto altro. La sua natura decentralizzata e ridondanza rende difficile bloccare lo streaming anche se alcuni utenti vengono bloccati, garantendo la libertà di accesso all'informazione.
