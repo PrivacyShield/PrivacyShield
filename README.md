@@ -10,7 +10,7 @@ Privacy Shield si propone di contrastare queste tendenze sviluppando e implement
 
 ### **TSNL: Un nuovo livello di rete per la privacy**
 
-Il cuore di Privacy Shield è TSNL (Time-based Spatial Network Layer), un protocollo che crea un "sub-layer" di rete dove l'identità degli utenti è protetta e al contempo è possibile scambiare dati con un'ampia banda.  Immaginate un labirinto dove i vostri dati vengono inviati attraverso percorsi multipli e complessi, rendendo difficile il tracciamento della loro origine e destinazione. TSNL offre diversi vantaggi rispetto a protocolli come Tor e Freenet, tra cui una maggiore velocità di connessione e una migliore accessibilità per l'utente comune.
+Il cuore di Privacy Shield è TSNL (Time-based Spatial Network Layers), un protocollo che crea un "sub-layer" di rete dove l'identità degli utenti è protetta e al contempo è possibile scambiare dati con un'ampia banda.  Immaginate un labirinto dove i vostri dati vengono inviati attraverso percorsi multipli e complessi, rendendo difficile il tracciamento della loro origine e destinazione. TSNL offre diversi vantaggi rispetto a protocolli come Tor e Freenet, tra cui una maggiore velocità di connessione e una migliore accessibilità per l'utente comune.
 
 Le specifiche del protocollo verranno pubblicate nell'omonima repository in questa organizzazione GitHub.
 
