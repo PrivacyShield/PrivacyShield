@@ -16,7 +16,7 @@ Le specifiche del protocollo verranno pubblicate nell'omonima repository in ques
 
 Si intende sviluppare la sua implementazione in NodeJS e Go.
 
-La bozza in anteprima delle presifications è già trovabile [nella sua repotisitory](https://github.com/PrivacyShield/tsnl-specification/blob/main/drafts/italian.md)
+La bozza in anteprima delle specificazioni è già trovabile [nella sua repotisitory](https://github.com/PrivacyShield/tsnl-specification/blob/main/drafts/italian.md)
 
 ### **P2V: Streaming libero e decentralizzato**
 
